@@ -54,7 +54,8 @@ Revolucionou os jogos de plataforma e definiu o padrão para o gênero. Tornou-s
 
 Introduziu elementos de aventura e exploração em mundos abertos, influenciando gerações de jogos.
 
-![](img/capa_analisetocarina.jpg)
+![images](https://github.com/user-attachments/assets/330e518a-6bc3-4825-b0e9-574bc2323cc4)
+
 
 ---
 
@@ -72,7 +73,7 @@ Usou gráficos 3D inovadores com o chip Super FX do Super Nintendo.
 
 Uma abordagem criativa de estratégia em tempo real com personagens carismáticos e mundos encantadores.
 
-![](img/images.jpg)
+![images](https://github.com/user-attachments/assets/3e006720-059e-4868-a44b-a2d65c2ee204)
 
 ---
 
