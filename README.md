@@ -64,7 +64,7 @@ Introduziu elementos de aventura e exploração em mundos abertos, influenciando
 
 Usou gráficos 3D inovadores com o chip Super FX do Super Nintendo.
 
-![](img/Star_Fox_SNES.jpg)
+![images](https://github.com/user-attachments/assets/ca3e842e-e48d-4ce3-9f6d-fe36ccc299fd)
 
 ---
 
@@ -73,7 +73,8 @@ Usou gráficos 3D inovadores com o chip Super FX do Super Nintendo.
 
 Uma abordagem criativa de estratégia em tempo real com personagens carismáticos e mundos encantadores.
 
-![images](https://github.com/user-attachments/assets/3e006720-059e-4868-a44b-a2d65c2ee204)
+![images](https://github.com/user-attachments/assets/9ac23dc1-e43d-4b5b-945e-f810b4ad0ed3)
+
 
 ---
 
