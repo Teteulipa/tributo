@@ -4,7 +4,8 @@ _Criado por [Matheus Furtado Vilela]_
 
 ---
 
-! [images](/MV5BZDBhMGI3OTQtYWI0ZC00NDA4LTg3YTItMDI5ZDI1ODNhNGQ1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg).
+![images](![Shige](https://github.com/user-attachments/assets/c05cb6e0-5901-434a-865b-bb9453808130)
+)
 
 # Shigeru Miyamoto
 
