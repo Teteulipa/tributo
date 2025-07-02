@@ -36,7 +36,8 @@ Para saber mais sobre Shigeru Miyamoto, veja sua página na [Wikipedia](https://
 
 O primeiro grande sucesso de Miyamoto, marcando o início da era de ouro dos arcades e introduzindo Mario ao mundo.
 
-![](img/maxresdefault.jpg)
+![images](https://github.com/user-attachments/assets/1f3e1b7e-7916-4336-9be8-8e30e21911c9)
+
 
 ---
 
