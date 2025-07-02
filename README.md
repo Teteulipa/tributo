@@ -46,7 +46,7 @@ O primeiro grande sucesso de Miyamoto, marcando o início da era de ouro dos arc
 
 Revolucionou os jogos de plataforma e definiu o padrão para o gênero. Tornou-se uma das franquias mais reconhecidas do planeta.
 
-![](img/Super_Mario_Bros._box.png)
+![images](https://github.com/user-attachments/assets/89605dec-2424-40b6-a81d-91b04aa1b170)
 
 ---
 
